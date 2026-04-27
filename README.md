@@ -9,8 +9,3 @@ Este é um jogo simples e divertido onde você precisa adivinhar um número secr
 *   **Dicas:** O sistema fornece dicas informando se o número secreto é maior ou menor que o palpite do usuário.
 *   **Contagem de tentativas:** O sistema conta o número de tentativas do usuário.
 *   **Reiniciar o jogo:** Permite que o usuário reinicie o jogo com um novo número secreto.
-*   **Alterar Limite:**
-    *   O botão "Chutar" se transforma em um botão "Alterar o Limite" antes do jogador dar inicio ao jogo, ou após a descoberta do número secreto.
-    *   Ao clicar em "Alterar o Limite", o jogador pode definir um novo limite máximo para o número secreto.
-    *   O jogo é reiniciado com o novo limite, permitindo que o jogador personalize o nível de dificuldade.
-    *   Após encontrar o número secreto, caso o jogador clique em "Novo Jogo", o jogo será reiniciado mantendo o mesmo nível de dificuldade.
